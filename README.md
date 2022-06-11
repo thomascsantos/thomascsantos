@@ -1,6 +1,8 @@
 Hello World I'am thomas
 
-- 🌱 STUDANTY FRONT END
+- 🌱 DEVELOPER/FRONT END
+- 💻 HTML
+- 💻 CSS
 - 💻 JAVASCRIPT
 - <div align="center">
   <a href="https://github.com/thomascsantos">
